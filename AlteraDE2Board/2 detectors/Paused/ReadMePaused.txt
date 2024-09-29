@@ -1,0 +1,1 @@
+This program allows taking data while pausing after every point, to allow the user to change a setting of the apparatus, such as changing a polarizer for every point.

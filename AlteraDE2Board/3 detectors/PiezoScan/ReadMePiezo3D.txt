@@ -1,0 +1,3 @@
+Piezo programs scan the voltage that is applied to a piezoelectric. This normally occurs when the piezoelectric is a spacer on a stage part of an interferometer. That way, the phase of the interference is scanned via a change in the path length difference. The use of 3 detectors allows one to see the two (complementary) outputs of the interferometer. There are two different programs:
+    PiezoScan_3Detectors_AlteraV2
+    PiezoScan3d24VRKG

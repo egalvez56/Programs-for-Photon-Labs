@@ -1,0 +1,1 @@
+This program was used to implement a QKD protocol with entangled photons. See AJP article Bista et al AJP 89, 111 (2021)
